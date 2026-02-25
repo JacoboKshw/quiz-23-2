@@ -1,6 +1,6 @@
 # Quiz 23/2
 
-AFD que acepta cadenas binarias que terminan en `1`.
+AFD que acepta cadenas binarias que terminan en 1.
 
 ## Cómo ejecutar
 
